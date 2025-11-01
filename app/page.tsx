@@ -89,6 +89,7 @@ export default function HomePage() {
         <div className="mt-16 text-center text-sm text-muted-foreground max-w-2xl">
           <p>Aprenda sobre sustentabilidade, plantas, rios e animais enquanto avança no jogo.</p>
           <p className="mt-2">Complete as missões e contribua para um planeta mais verde!</p>
+          <p className="mt-2">Este jogo foi criado pelo curso de Tecendo Futuros do IFAM!</p>
         </div>
       </div>
     </main>
